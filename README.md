@@ -16,11 +16,13 @@ This is probably better done as a wiki, but that's a project for future me.
 - [AirFanta G2](https://www.amazon.com/dp/B0D53PTXQ2) on amazon (co2 + particle monitor)
 
 # Face masks / Respirators
+## Where to buy masks
 - ZIMI masks
   - [ZIMI mask links](https://t.co/cHjlzsjPIg) for [Superbuy](https://www.superbuy.com/order) (cheaper, but [PITA](https://en.wiktionary.org/wiki/pain_in_the_ass) buying experience)
   - [ZIMI masks](https://ppeo.com/brand/zimi-air/) on PPEO (pricier, but probably better buying experience)
   - [Zhou Liang's mask](https://x.com/zhouliang_mask) is the creator
 - [ElastoMaskPro](https://reusable-respirators.com/product/elastomaskpro-respirator/) (1 piece elastomeric)
+## Learn about masks
 - [Masking test data](https://drive.google.com/drive/folders/1eE2BERAvRzs28kG87ft3a27FS9-gHvdC) from [Aaron Collins](https://twitter.com/masknerd)
 - [How n95 masks work](https://www.youtube.com/watch?v=vBJpvdZXxcs) video by [@minutephysics](https://x.com/minutephysics)
 
