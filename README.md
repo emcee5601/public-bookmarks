@@ -30,3 +30,9 @@ This is probably better done as a wiki, but that's a project for future me.
 - [Nukit Torch](https://cybernightmarket.com/products/mini-far-uvc-lights-set) (inactivate germs in the air)
 
 
+# Recommendations for myself
+Mostly notes to myself in case I have to re-acquire items on here for some reason. Some notes for observers.  Prices might be out of date.
+
+| Budget | Item | Notes |
+| --- | --- | --- |
+|$150 | AirFanta 3Pro | Versatile. Good enough in many situations: Can be quiet, can be packed and transported, can filter a large space. Affordable. Purchased 2: kept 1, gifted 1.|
