@@ -19,6 +19,7 @@ This is probably better done as a wiki, but that's a project for future me.
 ## Where to buy masks
 - ZIMI masks
   - [ZIMI mask links](https://t.co/cHjlzsjPIg) for [Superbuy](https://www.superbuy.com/order) (cheaper, but [PITA](https://en.wiktionary.org/wiki/pain_in_the_ass) buying experience)
+  - [ZIMI masks on Superbuy](https://www.superbuy.com/en/page/subject/?id=22259) - looks like this is all Zimi products
   - [ZIMI masks](https://ppeo.com/brand/zimi-air/) on PPEO (pricier, but probably better buying experience)
   - [Zhou Liang's mask](https://x.com/zhouliang_mask) is the creator
 - [ElastoMaskPro](https://reusable-respirators.com/product/elastomaskpro-respirator/) (1 piece elastomeric)
